@@ -64,6 +64,8 @@ ecoshopper/
 ├── public/
 └── package.json
 ```
+### 🎥 Video Demonstration
+Watch the video demonstration here: [SmartContent](https://youtu.be/WyFasg7eMqs)
 
 ## Contributing 🤝
 
