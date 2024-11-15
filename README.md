@@ -64,6 +64,13 @@ ecoshopper/
 ├── public/
 └── package.json
 ```
+## 🔍 Submission Information
+This project was created for the **GNEC Hackathon 2024 Fall**, showcasing a modern solution to empower consumers in making eco-friendly shopping decisions. The app offers real-time filtering of sustainable products, personalized eco-tips, and tracks environmental impact to foster a conscious consumer culture. 
+
+EcoShopper is designed to help people make environmentally conscious shopping choices by providing a range of eco-friendly alternatives to everyday products, offering key insights into their environmental impact, and motivating positive behavioral change towards sustainability.
+
+It was built using **React**, **TypeScript**, **Tailwind CSS**, and features interactive UI elements to enhance user experience.
+
 ### 🎥 Video Demonstration
 Watch the video demonstration here: [SmartContent](https://youtu.be/WyFasg7eMqs)
 
