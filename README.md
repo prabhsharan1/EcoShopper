@@ -72,7 +72,7 @@ EcoShopper is designed to help people make environmentally conscious shopping ch
 It was built using **React**, **TypeScript**, **Tailwind CSS**, and features interactive UI elements to enhance user experience.
 
 ### 🎥 Video Demonstration
-Watch the video demonstration here: [SmartContent](https://youtu.be/WyFasg7eMqs)
+Watch the video demonstration here: [EcoShopper](https://youtu.be/WyFasg7eMqs)
 
 ## Contributing 🤝
 
