@@ -32,7 +32,7 @@ A modern web application helping users make environmentally conscious shopping d
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ecoshopper.git
+git clone https://github.com/prabhsharan1/ecoshopper.git
 ```
 
 2. Install dependencies:
